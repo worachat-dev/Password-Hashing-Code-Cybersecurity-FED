@@ -24,8 +24,8 @@ This project implements a simple web-based password authentication system using 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/password-authentication-web.git
-   cd password-authentication-web
+   git clone https://github.com/worachat-dev/Password-Hashing-Code-Cybersecurity-FED.git
+   cd Password-Hashing-Code-Cybersecurity-FED
    ```
 
 2. **Open the Project**:
